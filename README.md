@@ -2,10 +2,6 @@
 
 A simple and elegant **Body Mass Index (BMI) Calculator** built using **Flutter**. This app helps users quickly determine their BMI based on their weight (kg) and height (cm) and provides appropriate health category feedback.
 
-## 📸 Screenshots
-
-(Add your screenshots here to showcase the UI)
-
 ## 🚀 Features
 - **Beautiful UI** with a modern, minimalistic design
 - **Instant BMI Calculation** based on user input
